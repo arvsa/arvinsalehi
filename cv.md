@@ -46,14 +46,14 @@ Infrastructure & DevOps
 
 * **Orchestration & Containerization:** Docker, Docker Swarm
 * **Cloud Computing/Self Hosting:** AWS, Azure, Proxmox
-* **CI/CD & Automation:** GitHub Actions, Ansible, n8n  
+* **CI/CD & Automation:** GitHub Actions, Ansible, Agentic automation, n8n  
 * **Networking & Proxy:** Nginx, Traefik, Apache, TCP/SSH, WebSockets, MQTT, GraphQL  
 * **Monitoring & Testing:** Prometheus, Playwright, Jest, Pytest
 
 Machine Learning & Data Engineering
 
 * **Frameworks:** PyTorch, Scikit-Learn, Pandas, NVIDIA TAO Toolkit  
-* **API:** OpenApi, Amazon Bedrock, Vercel AI  
+* **API:** Claude code, OpenApi, Amazon Bedrock, Vercel AI  
 * **Computer Vision & Media:** OpenCV, Scikit-image, GStreamer, FFmpeg, RTSP  
 * **AI Orchestration:** LangGraph, RabbitMQ  
 * **Specialties:** NLP, Image Processing, Transfer Learning, Pre-processing
