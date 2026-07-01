@@ -46,22 +46,24 @@ Infrastructure & DevOps
 
 * **Orchestration & Containerization:** Docker, Docker Swarm
 * **Cloud Computing/Self Hosting:** AWS, Azure, Proxmox
-* **CI/CD & Automation:** GitHub Actions, Ansible, Agentic automation, n8n  
+* **CI/CD & Automation:** GitHub Actions, Ansible, n8n  
 * **Networking & Proxy:** Nginx, Traefik, Apache, TCP/SSH, WebSockets, MQTT, GraphQL  
 * **Monitoring & Testing:** Prometheus, Playwright, Jest, Pytest
 
 Machine Learning & Data Engineering
 
 * **Frameworks:** PyTorch, Scikit-Learn, Pandas, NVIDIA TAO Toolkit  
-* **API:** Claude code, OpenApi, Amazon Bedrock, Vercel AI  
+* **API:** OpenApi, Amazon Bedrock, Vercel AI  
 * **Computer Vision & Media:** OpenCV, Scikit-image, GStreamer, FFmpeg, RTSP  
 * **AI Orchestration:** LangGraph, RabbitMQ  
 * **Specialties:** NLP, Image Processing, Transfer Learning, Pre-processing
 
 Some of the Personal & Freelance softwares
 
-* **telegram-news-bucket:** Developed a telegram bot acting as a search engine on specific channels in telegram. This bot relies on LLM and Retrieval Augmented Generation (RAG) technique. The data is gathered using telegram client api (MTProto) and is semantic cached. (Stack: Python3, Telethon, LangGraph, ChromaDB) (2026-)  
-* **test-1:** Developed backend for a self hosted healthcheck software for enterprises. This software gathers the realtime data from devices on the network. Furthermore, this software uses microservice architecture. (Stack: Python3, Rust, Golang, MySQL, Traefik, Redis, Prometheus, Tanstack, …) (2025-)  
+* [send-something](https://github.com/arvsa/rest-tui-crud-admin/tree/main): A minimal terminal app acting as an minimal abstract of sending request to server configurable with yaml files (for models and configs) and Rust (for custom protocols).  
+
+* [argus](https://github.com/arvsa/argus): A minimal icmp (ping) test application serving as an health check. This software implements microservice architecture with different services such as backend (FastApi), frontend(Tanstack Query), pingsvc (Rust).  
+
 * **OrangeVille Foot Clinic**: Developed a lightweight email automation service, Integrated with Cliniko API for customized clinic communication and user action. (Stack: FastAPI, MySQL, n8n, SMTP, Docker) (2023)
 
 Education
