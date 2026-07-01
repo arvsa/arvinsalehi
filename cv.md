@@ -60,7 +60,7 @@ Machine Learning & Data Engineering
 
 Some of the Personal & Freelance softwares
 
-- [send-something](https://github.com/arvsa/rest-tui-crud-admin/tree/main): A minimal terminal app acting as an minimal abstract of sending request to server configurable with yaml files (for models and configs) and Rust (for custom protocols).  
+- [send-something](https://github.com/arvsa/rest-tui-crud-admin/tree/main): A minimal terminal app acting as an abstract of sending request to server configurable with yaml files (for models and configs) and Rust (for custom protocols).  
 
 - [argus](https://github.com/arvsa/argus): A minimal icmp (ping) test application serving as an health check. This software implements microservice architecture with different services such as backend (FastApi), frontend(Tanstack Query), pingsvc (Rust).  
 
