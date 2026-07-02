@@ -62,7 +62,7 @@ Some of the Personal & Freelance softwares
 
 - [send-something](https://github.com/arvsa/rest-tui-crud-admin/tree/main): A minimal terminal app acting as an abstract of sending request to server that is configurable with yaml files (for models and configs) and Rust (for custom protocols).  
 
-- [argus](https://github.com/arvsa/argus): A minimal icmp (ping) test application serving as an health check. This software implements microservice architecture with different services such as backend (FastApi), frontend(Tanstack Query), pingsvc (Rust).  
+- [argus](https://github.com/arvsa/argus): A minimal icmp (ping) test application serving as an health check. This software implements microservice architecture with different services such as backend (FastApi), frontend(Tanstack Query), pingsvc (GoLang).  
 
 - OrangeVille Foot Clinic: Developed a lightweight email automation service, Integrated with Cliniko API for customized clinic communication and user action. (Stack: FastAPI, MySQL, n8n, SMTP, Docker) (2023)
 
